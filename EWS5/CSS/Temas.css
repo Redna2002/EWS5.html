@@ -1,0 +1,26 @@
+body 
+{
+    transition: background-color 0.5s ease; /* Transición suave entre cambios de color */
+}
+.Botón 
+{
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+	
+P 
+{
+	font-size: 20px;
+	font-family: 'Oswald';
+}
+
+.Blanco { background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); }
+.Negro { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); }
+.Morado { background-color: rgb(128, 0, 128); color: rgb(0, 255, 0); }
+.Verde { background-color: rgb(0, 128, 0); color: rgb(128, 0, 128); }
+.Azul { background-color: rgb(0, 0, 255); color: rgb(255, 255, 255); }
